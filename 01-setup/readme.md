@@ -36,8 +36,6 @@ Para editar el código, se va a aprovechar _Visual Studio Code_, en especial por
 
 Hoy en día existen muchas herramientas para el desarrollo web que aprovechan [node.js](https://nodejs.org) y [npm](https://www.npmjs.com). Por más que no es requerido para el desarrollo de una PWA, nosotros usaremos algunas de estas herramientas y por eso es un requerimiento de este workshop. El primero sirve para poder correr las herramientas necesarias. El segundo, se necesita dado que es la forma en la que se distribuyen los paquetes que utilizaremos.
 
-> **Nota**: Verificar que está instalada al menos la versión _4.x.x_ de _node.js_ y la versión _3.x.x_ de _npm_ corriendo `node -v` y `npm -v` en la terminal/consola.
-
 1. Navegar al sitio de descargas de _node.js_: [https://nodejs.org/es/download/](https://nodejs.org/es/download/).
 
     ![Sitio de node.js](./images/nodejs.jpg "Sitio de node.js")
@@ -49,11 +47,12 @@ Hoy en día existen muchas herramientas para el desarrollo web que aprovechan [n
 1. Una vez descargado, seguir los pasos de la instalación.
 
 
-## Conclusiones
+## Instalar React
 
-Con este tipo de herramientas se puede desarrollar desde cualquier plataforma (Windows, Mac o Linux) sin ningún problema, permitiendo una mayor flexibilidad.
+Para instalar React. seguir los siguientes comandos para la instalacion
 
-Ahora que el entorno de desarrollo está listo, no queda otra cosa que empezar a desarrollar la aplicación.
+```npm install -g create-react-app
+create-react-app my-app```
 
 
 ## Próximo modulo

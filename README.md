@@ -9,24 +9,17 @@ El workshop cuenta con los siguientes módulos:
 
 2. [Nuestro hola mundo](./02-helloword): En esta parte comenzaremos con un hola mundo para ponernos en ambiente
 
-3. [Uso de los props](./03-props): Ok comencemos con los props 
+3. [Uso de los props](./03-props): workshop
 
-4. [Manejo del estado](./04-state): Veremos el manejo de los estados
-
-5. [Eventos](./05-events): veremos los eventos 
 ## Feedback
 
-Una vez terminado el workshop, se agradece completar la [encuesta](https://goo.gl/forms/B9Dp88OR9mUkiz5f2) para poder mejorarlo. También se aceptan [issues](https://github.com/PWA-espanol/workshop/issues/new) y [pull requests](https://github.com/PWA-espanol/workshop#fork-destination-box).
+Una vez terminado el workshop, se agradece completar la [encuesta](https://docs.google.com/forms/d/e/1FAIpQLSenK_TDn54NEv65PKyoGr9L4Us7x8y1Wdwzt7cw6BkR5HIBqA/viewform?usp=pp_url&entry.1506216363) para poder mejorarlo. También se aceptan [issues]
 
 ## Sobre los autores
 
 Creado por:
-- Leonardo Pittelli
-    - Twitter: [@leopittelli](https://twitter.com/leopittelli)
-- [Nicolas Bello Camilletti](https://nbellocam.me/)
-    - Twitter: [@nbellocam](https://twitter.com/nbellocam)
-- [Andrés Villanueva](http://www.andresvillanueva.com.ve)
-    - Twitter: [@villanuevand](https://twitter.com/villanuevand) 
+- Irvin Cossio Chavalier
+- Irene Argollo Delgadillo 
 
 ## Empecemos!
 Avanzar al [módulo 1](./01-setup)
