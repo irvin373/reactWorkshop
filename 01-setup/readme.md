@@ -51,9 +51,8 @@ Hoy en día existen muchas herramientas para el desarrollo web que aprovechan [n
 
 Para instalar React. seguir los siguientes comandos para la instalacion
 
-```npm install -g create-react-app
-create-react-app my-app```
-
+`npm install -g create-react-app
+create-react-app my-app`
 
 ## Próximo modulo
 Avanzar al [módulo 2](../02-helloword)
