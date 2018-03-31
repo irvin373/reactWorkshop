@@ -77,7 +77,8 @@ class HelloWord extends Component {
   }
 }
 
-export default HelloWord```
+export default HelloWord
+```
 
 ## Próximo modulo
-Avanzar al [módulo 3](../03-conceptos)
+Avanzar al [módulo 3](../03-props)
