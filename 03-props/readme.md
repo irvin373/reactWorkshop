@@ -1,7 +1,7 @@
 # 3. Conceptos básicos
 
 Ahora trabajaremos sobre un proyecto base para agregar funcionalidad en medio de todo el camino
-
+[descarga el proyecto base](https://drive.google.com/open?id=1b_Q1vQVKnFmUSqXsMmdVwlVXBtJpeUd7)
 ## Props
 
 Las propiedades se pasan desde un componente padre hacia sus hijos. Donde el hijo podra acceder a estas mediante `this.props` que es un objeto inmutable.
