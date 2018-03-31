@@ -7,11 +7,12 @@ Durante el workshop
 lo primero que vamos a hacer es crear un nuevo proyecto y lo haremos de la siguiente manera:
 
 1. Primero crearemos el proyecto y haremos correr
-```create-react-app my-app
-
+```
+create-react-app my-app
 cd my-app
 npm start
-yarn start```
+yarn start
+```
 
 1. Abrir la carpeta con _VS Code_ o la herramienta que prefiera para ver la estructura de archivos.
 
